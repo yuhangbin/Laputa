@@ -1,0 +1,4 @@
+repository "Laputa@charlieyuuuu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
